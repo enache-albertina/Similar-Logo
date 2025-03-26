@@ -1,0 +1,1378 @@
+<!doctype html>
+<html lang="">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="facebook-domain-verification" content="awbt5v3o0r2yykitroaveqsj7hqipn" />
+	<base href="">
+	<title>Edenred Uruguay</title>
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500,700" rel="stylesheet">
+	<link rel="shortcut icon" type="im" href="/favicon.ico">
+
+	<!-- inject:css -->
+	<!-- endinject -->
+
+	<link rel="stylesheet" href="/css/stylesheet.css">
+
+	<!-- Início do aviso de consentimento de cookies OneTrust para edenred.com.uy -->
+
+	<script src=https://cdn.cookielaw.org/scripttemplates/otSDKStub.js type="text/javascript" charset="UTF-8"
+		data-domain-script="36ea1866-6218-4728-afd4-6e7e1a0941af"></script>
+	<script type="text/javascript">
+		function OptanonWrapper() { }
+	</script>
+	<!-- Final do aviso de consentimento de cookies OneTrust para edenred.com.uy -->
+</head>
+
+<body>
+	<!--[if IE]>
+			<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124434485-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-124434485-1');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-T4TD6BZ');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4TD6BZ" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- Start of HubSpot Embed Code -->
+	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/491231.js"></script>
+	<!-- End of HubSpot Embed Code -->
+
+	<div class="Wrapper Wrapper--set1">
+		<!-- Change your colors set here : Wrapper--set1 / Wrapper--set2 / Wrapper--set1 -->
+
+		<!--HEADER-->
+		<header>
+			<!--TOP HEADER-->
+			<div class="TopHeader">
+				<span class="TopHeader-country">Uruguay</span>
+				<div class="TopHeader-right">
+					<!-- Header / Social media -->
+					<div class="TopHeader-social">
+						<ul class="TopHeader-socialList">
+							<li class="TopHeader-socialItem">
+								<a target="_blank" href="https://www.facebook.com/EdenredUruguay/" class="TopHeader-socialLink">
+									<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
+										viewBox="0 0 15 15" enable-background="new 0 0 15 15" xml:space="preserve">
+										<g>
+											<path
+												d="M10.722,7.505H8.613c0,3.368,0,7.515,0,7.515H5.49c0,0,0-4.105,0-7.515H4.005V4.851H5.49V3.132 c0-1.23,0.584-3.152,3.151-3.152l2.313,0.009v2.578c0,0-1.406,0-1.679,0c-0.273,0-0.663,0.136-0.663,0.724v1.561h2.382 L10.722,7.505z" />
+											<rect fill="none" width="15" height="15" />
+										</g>
+									</svg>
+								</a>
+							</li>
+							<li class="TopHeader-socialItem">
+								<a target="_blank" href="https://www.linkedin.com/company/edenred-uy/" class="TopHeader-socialLink">
+									<svg width="15" height="15" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 17.6 17.6"
+										style="enable-background:new 0 0 17.6 17.6;" xml:space="preserve">
+										<polygon id="XMLID_3_" class="st0" points="0,9 0,17.6 4.1,17.6 4.1,8.3 4.1,5.9 0,5.9 	" />
+										<circle id="XMLID_2_" class="st0" cx="2.1" cy="2.1" r="2.1" />
+										<path id="XMLID_1_" class="st0" d="M17.5,9.5c-0.3-2.2-1.3-3.6-4.3-3.6c-1.8,0-3,0.7-3.5,1.6H9.7V5.9H6.5v2.3v9.5h3.4v-5.8
+												c0-1.5,0.3-3,2.2-3c1.9,0,2,1.8,2,3.1v5.7h3.5v-6.5h0C17.6,10.6,17.6,10,17.5,9.5z" />
+									</svg>
+
+								</a>
+							</li>
+
+							<li class="TopHeader-socialItem">
+								<a target="_blank" href="https://www.youtube.com/channel/UCeiGz14IcJgbqeAiOanFOow"
+									class="TopHeader-socialLink">
+									<svg width="20" height="20" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+										xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 19.6 23.7"
+										style="enable-background:new 0 0 19.6 23.7;" xml:space="preserve">
+										<path class="st0" d="M7.7,0H6.4L5.5,3.5L4.6,0H3.2C3.4,0.8,3.7,1.6,4,2.5c0.4,1.2,0.7,2.2,0.8,2.8v3.6h1.3V5.3L7.7,0z M11.3,6.7V4.4
+											c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.5-0.8-0.7-1.4-0.7c-0.6,0-1.1,0.2-1.4,0.7C7.9,3.2,7.8,3.7,7.8,4.4v2.3c0,0.7,0.1,1.2,0.4,1.6
+											C8.5,8.7,8.9,9,9.5,9c0.6,0,1.1-0.2,1.4-0.7C11.2,7.9,11.3,7.4,11.3,6.7z M10.1,6.9c0,0.6-0.2,0.9-0.6,0.9C9.1,7.9,9,7.6,9,6.9V4.2
+											c0-0.6,0.2-0.9,0.6-0.9c0.4,0,0.6,0.3,0.6,0.9V6.9z M15.7,8.9V2.3h-1.2v5c-0.3,0.4-0.5,0.6-0.8,0.6c-0.2,0-0.3-0.1-0.3-0.3
+											c0,0,0-0.2,0-0.5V2.3h-1.2v5.2c0,0.5,0,0.8,0.1,1C12.5,8.8,12.8,9,13.2,9c0.4,0,0.9-0.3,1.4-0.8v0.7H15.7z" />
+										<path class="st0" d="M12,15.6c-0.2,0-0.4,0.1-0.6,0.3v4c0.2,0.2,0.4,0.3,0.6,0.3c0.3,0,0.5-0.3,0.5-0.9v-2.8
+												C12.5,15.9,12.3,15.6,12,15.6z" />
+										<path class="st0"
+											d="M16.4,15.6c-0.4,0-0.6,0.3-0.6,0.9v0.6h1.2v-0.6C16.9,15.9,16.7,15.6,16.4,15.6z" />
+										<path class="st0" d="M19.3,12.2c-0.2-1-1.1-1.8-2.1-1.9C14.7,10,12.2,10,9.8,10c-2.4,0-4.9,0-7.3,0.3c-1,0.1-1.9,0.9-2.1,1.9
+												C0,13.7,0,15.3,0,16.9c0,1.5,0,3.1,0.3,4.6c0.2,1,1.1,1.8,2.1,1.9c2.4,0.3,4.9,0.3,7.3,0.3c2.4,0,4.9,0,7.3-0.3
+												c1-0.1,1.9-0.9,2.1-1.9c0.3-1.5,0.3-3.1,0.3-4.6C19.6,15.3,19.6,13.7,19.3,12.2z M5.6,13.6H4.2v7.5H2.9v-7.5H1.5v-1.2h4.1V13.6z
+													M9.2,21.1H8v-0.7c-0.5,0.5-0.9,0.8-1.4,0.8c-0.4,0-0.6-0.2-0.8-0.5c-0.1-0.2-0.1-0.5-0.1-1v-5.2h1.2v4.8c0,0.3,0,0.4,0,0.5
+												c0,0.2,0.1,0.3,0.3,0.3c0.2,0,0.5-0.2,0.7-0.6v-5h1.2V21.1z M13.7,19.2c0,0.6,0,1-0.1,1.3c-0.2,0.5-0.5,0.7-0.9,0.7
+												c-0.4,0-0.8-0.2-1.2-0.7v0.6h-1.2v-8.8h1.2v2.9c0.4-0.5,0.8-0.7,1.2-0.7c0.5,0,0.8,0.2,0.9,0.7c0.1,0.3,0.1,0.7,0.1,1.3V19.2z
+													M18.1,18.1h-2.4v1.2c0,0.6,0.2,0.9,0.6,0.9c0.3,0,0.5-0.2,0.5-0.5c0-0.1,0-0.3,0-0.8h1.2V19c0,0.4,0,0.6,0,0.8
+												c0,0.3-0.1,0.5-0.3,0.7c-0.3,0.5-0.8,0.7-1.4,0.7c-0.6,0-1.1-0.2-1.4-0.7c-0.3-0.3-0.4-0.8-0.4-1.5v-2.3c0-0.7,0.1-1.2,0.4-1.5
+												c0.3-0.4,0.8-0.7,1.4-0.7c0.6,0,1.1,0.2,1.4,0.7c0.2,0.3,0.4,0.8,0.4,1.5V18.1z" />
+									</svg>
+
+								</a>
+							</li>
+						</ul>
+					</div>
+
+					
+				</div>
+			</div>
+
+			<!--MAIN HEADER-->
+			<div class="MainHeader">
+				<!-- Header / Logo -->
+				<a href="/"> <img class="MainHeader-logo" src="/img/logo.png" alt="Edenred"></a>
+
+				<!-- Header / Country - mobile -->
+				<span class="MainHeader-countryMobile">uruguay</span>
+
+				<!-- Header / Burger - mobile -->
+				<div class="MainHeader-burgerMobile">
+					<span class="MainHeader-burgerMobileSpan"></span>
+					<span class="MainHeader-burgerMobileSpan"></span>
+					<span class="MainHeader-burgerMobileSpan"></span>
+				</div>
+
+				<!--MENU-->
+				
+				<!-- Header / Main Nav -->
+<div class="MainNav">
+	<ul class="MainNav-list">
+		<li class="MainNav-item">
+			<a class="MainNav-link active" href="/">Home</a>
+		</li>
+		<li class="MainNav-item">
+			<span class="MainNav-link">
+				Productos
+				<svg class="MainNav-linkIconMobile" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="28px">
+					<path fill-rule="evenodd" stroke="rgb(255, 255, 255)" stroke-width="2px" stroke-linecap="round"
+						stroke-linejoin="miter" fill="none" d="M6.330,3.342 L16.007,13.185 L5.989,22.659 " />
+				</svg>
+			</span>
+			<div class="MegaMenu">
+				<nav class="MegaMenu-submenu">
+					<span class="MegaMenu-submenuBorder"></span>
+					<div class="MegaMenu-submenuTitle">
+						<svg width="18px" height="26px" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 27 41"
+							style="enable-background: new 0 0 27 41" xml:space="preserve">
+							<path class="st0" d="M18.1,35.4L2,18.7L18.7,2.6" />
+						</svg>
+						Productos
+					</div>
+					<ul class="MegaMenu-submenuList">
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="#"><strong>Beneficios Para Empleados</strong></a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/ticket-alimentacion/clientes.html">Edenred
+								Alimentación®</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/ticket-restaurant/clientes.html">Edenred Restaurant®</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/transporte/clientes.html">Edenred Transporte®</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/flex/clientes.html">Edenred Flex®</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/salud/clientes.html">Edenred Salud®</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="https://www.gointegro.com/" target="_blank">GOintegro | Edenred</a>
+						</li>
+					</ul>
+					<span class="MegaMenu-submenuBorder"></span>
+				</nav>
+				<nav class="MegaMenu-submenu">
+					<ul class="MegaMenu-submenuList">
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="#"><strong>Incentivos Y Motivación</strong></a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/compliments/clientes.html">Edenred Compliments®</a>
+						</li>
+					</ul>
+					<span class="MegaMenu-submenuBorder"></span>
+				</nav>
+				<nav class="MegaMenu-submenu">
+					<ul class="MegaMenu-submenuList">
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="#"><strong>Gastos Corporativos</strong></a>
+						</li>
+						<!--<li class="MegaMenu-submenuItem">
+              <a
+                class="MegaMenu-submenuLink"
+                href="/empresarial.html"
+                >Edenred Empresarial®</a
+              >
+            </li>-->
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/combustible/clientes.html">Edenred Combustible®</a>
+						</li>
+						<!--<li class="MegaMenu-submenuItem">
+              <a class="MegaMenu-submenuLink" href="/flota.html"
+                >Edenred Flota®</a
+              >
+            </li>-->
+					</ul>
+				</nav>
+			</div>
+		</li>
+		<li class="MainNav-item">
+			<span class="MainNav-link">
+				Nosotros
+				<svg class="MainNav-linkIconMobile" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="28px">
+					<path fill-rule="evenodd" stroke="rgb(255, 255, 255)" stroke-width="2px" stroke-linecap="round"
+						stroke-linejoin="miter" fill="none" d="M6.330,3.342 L16.007,13.185 L5.989,22.659 " />
+				</svg>
+			</span>
+			<div class="MegaMenu">
+				<div class="MegaMenu-presentation">
+					<h6>Nosotros</h6>
+					<p>
+						Edenred es líder mundial en el campo de vales y tarjetas de
+						servicios de prepago para empresas y negocios.
+					</p>
+					<a class="Button Button--onBackground" href="/nosotros.html">Saber Más</a>
+				</div>
+
+				<nav class="MegaMenu-submenu">
+					<span class="MegaMenu-submenuBorder"></span>
+					<div class="MegaMenu-submenuTitle">
+						<svg width="18px" height="26px" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 27 41"
+							style="enable-background: new 0 0 27 41" xml:space="preserve">
+							<path class="st0" d="M18.1,35.4L2,18.7L18.7,2.6" />
+						</svg>
+						Nosotros
+					</div>
+					<ul class="MegaMenu-submenuList">
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/nosotros.html">Quienes Somos</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/nosotros.html#mision">Misión · Visión · Valores</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/nosotros/proposito.html">Propósito</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/nosotros/rse.html">RSE</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/nosotros/politicas-de-privacidad.html">Políticas De
+								Privacidad</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="/nosotros/trabaja-con-nosotros.html">Trabaja Con
+								Nosotros</a>
+						</li>
+						<li class="MegaMenu-submenuItem">
+							<a class="MegaMenu-submenuLink" href="https://www.edenred.com/en/group/our-publications">Publicaciones del
+								Grupo Edenred</a>
+						</li>
+					</ul>
+					<span class="MegaMenu-submenuBorder"></span>
+				</nav>
+
+				<div class="MegaMenu-push">
+					<img class="MegaMenu-pushImg" src="/img/megamenu-push.png" />
+				</div>
+			</div>
+		</li>
+		<li class="MainNav-item">
+			<a class="MainNav-link"
+				href="https://servicios.edenred.com.uy/" target="_blank">Edenred en Línea</a>
+		</li>
+		<li class="MainNav-item">
+			<a class="MainNav-link"
+				href="https://www.edenred.com.uy/consulta-saldo.html" target="_blank">Consultá tu Saldo</a>
+		</li>
+		<li class="MainNav-item">
+			<a class="MainNav-link"
+				href="/contacto.html">Contacto</a>
+		</li>
+	</ul>
+</div>
+				
+				<!--/MENU-->
+			</div>
+		</header>
+
+
+		<!-- STICKY TOOLS -->
+		<div class="Tools ">
+    <a href="/simulador-de-ahorro/index.html"
+       class="Tools-item ">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="35"  version="1.1" id="Capa_1"
+             x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+            <g>
+                <g>
+                    <path d="M422.503,270.613c-4.115,0-7.451,3.336-7.451,7.451c0,5.217-4.244,9.461-9.461,9.461c-5.216,0-9.461-4.244-9.461-9.461    c0-4.116-3.336-7.451-7.451-7.451s-7.451,3.336-7.451,7.451c0,13.434,10.93,24.363,24.363,24.363    c13.433,0,24.363-10.93,24.363-24.363C429.954,273.947,426.618,270.613,422.503,270.613z"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M492.444,271.83l-20.972-6.718c-2.686-0.861-4.803-3.005-5.662-5.736c-4.42-14.053-11.09-27.246-19.825-39.214    c-3.981-5.455-8.408-10.664-13.244-15.623c3.094-13.573,4.776-28.934,4.558-42.205c-0.312-18.985-4.106-30.12-11.598-34.044    c-4.035-2.116-16.315-8.544-82.782,21.882c-1.574,0.72-3.044,1.607-4.405,2.623c-4.481-1.204-9.061-2.318-13.669-3.318    c-0.555-0.121-1.127-0.228-1.686-0.346c5.386-11.766,8.531-24.545,9.122-37.737c0.184-4.112-2.999-7.594-7.111-7.777    c-4.101-0.204-7.594,2.998-7.777,7.11c-0.971,21.691-9.969,42.1-25.335,57.467c-9.181,9.181-19.931,15.85-31.388,20.05    c-19.869-2.788-40.107-2.788-59.976,0c-11.458-4.2-22.207-10.869-31.388-20.05c-16.394-16.394-25.423-38.191-25.423-61.376    c0-23.186,9.029-44.982,25.423-61.376c16.394-16.395,38.192-25.424,61.376-25.424c23.184,0,44.982,9.029,61.376,25.424    c6.588,6.588,12.032,14.106,16.181,22.343c1.851,3.676,6.332,5.156,10.007,3.304c3.676-1.85,5.155-6.331,3.304-10.006    c-4.863-9.659-11.24-18.466-18.953-26.18c-19.209-19.209-44.749-29.788-71.914-29.788c-27.165,0-52.705,10.579-71.914,29.788    c-19.209,19.21-29.788,44.749-29.788,71.914s10.579,52.705,29.788,71.914c5.541,5.541,11.569,10.306,17.945,14.298    c0.002,0,0.004-0.001,0.006-0.001c-4.633,1.204-9.231,2.556-13.778,4.076c-3.903,1.305-6.009,5.526-4.704,9.43    c1.304,3.903,5.527,6.009,9.429,4.705c40.636-13.585,85.396-13.585,126.032,0c0.784,0.262,1.58,0.386,2.363,0.386    c3.117,0,6.023-1.972,7.066-5.091c1.305-3.903-0.801-8.125-4.704-9.43c-4.547-1.52-9.145-2.873-13.778-4.076    c0.002,0,0.004,0.001,0.006,0.001c6.377-3.992,12.404-8.757,17.945-14.298c4.902-4.902,9.229-10.255,12.986-15.944    c2.054,0.399,4.093,0.817,6.102,1.253c2.676,0.581,5.34,1.205,7.98,1.86c-0.083,0.324-0.168,0.647-0.237,0.976    c-3.634,17.245-3.398,32.497,0.701,45.33c3.684,11.535,10.333,20.88,19.76,27.777c11.111,8.128,24.525,11.639,36.676,11.639    c9.145,0,17.576-1.99,23.768-5.497c7.004-3.967,12.872-12.326,17.517-24.876c2.147,2.506,4.182,5.073,6.1,7.701    c7.777,10.654,13.714,22.396,17.646,34.898c2.309,7.343,8.041,13.121,15.332,15.458l20.972,6.718    c5.503,1.763,9.2,6.828,9.2,12.606v34.775c0,5.778-3.697,10.843-9.2,12.606l-33.789,10.823    c-5.406,1.733-9.981,5.448-12.882,10.462c-13.275,22.942-34.146,41.927-62.037,56.428c-3.222,1.677-5.454,4.676-6.126,8.23    l-10.822,57.303c-0.299,1.579-1.682,2.724-3.289,2.724h-35.187c-1.607,0-2.99-1.146-3.289-2.724l-5.994-31.669    c-1.18-6.231-7.024-10.37-13.314-9.417c-15.157,2.292-30.775,3.453-46.418,3.453c-11.638,0-23.127-0.649-34.15-1.93    c-6.095-0.701-11.773,3.454-12.912,9.472l-5.696,30.091c-0.299,1.579-1.682,2.724-3.289,2.724h-35.187    c-1.607,0-2.99-1.146-3.293-2.748l-10.42-54.122c-0.671-3.487-2.861-6.452-6.012-8.135C96.25,401.595,71.12,359.191,71.12,304.351    c0-27.708,6.062-52.209,18.017-72.825c11.156-19.239,27.45-35.146,48.429-47.281c3.562-2.061,4.779-6.619,2.719-10.182    c-2.06-3.562-6.618-4.777-10.181-2.719C89.425,194.876,64.89,231.18,58.135,277.29v-0.001c-0.717-0.065-1.435-0.127-2.15-0.201    c0.13-4.975-0.77-9.995-2.73-14.867c-4.323-10.746-13.203-18.502-22.624-19.759c-7.424-0.994-14.489,2.158-19.392,8.636    c-7.109,9.394-5.95,16.828-3.727,21.41c3.753,7.733,13.4,13.203,29.409,16.642c-0.44,0.659-0.924,1.321-1.454,1.986    c-9.459,11.863-20.603,14.486-27.839,14.733C3.392,306.012,0,309.413,0,313.652v0.036c0,4.181,3.299,7.591,7.476,7.782    c0.535,0.025,1.094,0.038,1.676,0.038c9.156,0,23.851-3.377,37.969-21.08c2.229-2.794,4.045-5.742,5.441-8.788    c1.406,0.159,2.757,0.295,4.051,0.415c0-0.003,0-0.005,0.001-0.008c-0.254,4.038-0.395,8.135-0.395,12.304    c0,31.028,7.397,58.693,21.984,82.23c13.45,21.7,32.707,39.468,57.255,52.83l10.13,52.616c1.629,8.608,9.17,14.856,17.931,14.856    h35.187c8.761,0,16.302-6.248,17.931-14.856l5.15-27.208c10.696,1.133,21.77,1.707,32.965,1.707c15.36,0,30.702-1.07,45.654-3.182    l5.429,28.685c1.63,8.608,9.171,14.855,17.931,14.855h35.187c8.761,0,16.302-6.248,17.932-14.859l10.537-55.791    c29.768-15.741,52.206-36.419,66.704-61.475c1.045-1.806,2.654-3.131,4.53-3.732l33.788-10.823    C504.141,356.455,512,345.686,512,333.403v-34.775C512,286.346,504.141,275.577,492.444,271.83z M421.278,183.273    c-2.868,24.526-10.561,45.506-18.291,49.884c-8.786,4.977-29.071,5.938-44.301-5.203c-15.248-11.154-20.323-31.212-14.678-58.006    c0-0.001,0-0.001,0-0.001c0.567-2.691,2.479-5.019,5.114-6.225c37.304-17.076,58.811-22.661,66.801-22.661    c1.206,0,2.104,0.127,2.702,0.361C421.025,143.98,424.173,158.521,421.278,183.273z M20.921,266.001    c-0.771-1.59,1.049-4.385,2.203-5.911c1.829-2.416,3.514-2.91,4.787-2.91c0.269,0,0.52,0.022,0.75,0.053    c3.426,0.457,8.226,4.227,10.769,10.548c0.599,1.488,1.377,3.953,1.559,7.027C30.674,272.671,22.66,269.59,20.921,266.001z"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M237.918,98.277V71.613c9.195,0.657,12.611,4.86,15.763,4.86c3.941,0,5.78-4.991,5.78-7.487    c0-6.437-12.611-9.195-21.543-9.458V55.98c0-1.576-1.971-3.021-3.941-3.021c-2.234,0-3.81,1.445-3.81,3.021v3.809    c-12.479,1.314-24.958,7.882-24.958,24.433c0,16.814,13.136,21.543,24.958,25.746v30.869    c-13.399-1.051-16.945-10.246-21.28-10.246c-3.284,0-6.042,4.335-6.042,7.488c0,6.436,11.034,15.237,27.322,15.5h0v4.072    c0,1.576,1.577,3.021,3.81,3.021c1.971,0,3.941-1.445,3.941-3.021v-4.466c14.187-1.971,23.907-10.903,23.907-27.06    C261.825,108.261,249.346,102.48,237.918,98.277z M230.955,95.782c-6.962-2.627-12.61-5.385-12.61-12.872    c0-6.831,5.254-10.115,12.61-11.034V95.782z M237.129,140.574v-27.716c6.436,2.758,11.559,6.436,11.559,14.711    C248.688,135.058,244.222,139.261,237.129,140.574z"/>
+                </g>
+            </g>
+        </svg>
+        <div class="Tools-tooltip">Simulador de ahorro</div>
+    </a>
+    <a href="/contacto.html" class="Tools-item ">
+        <svg width="41" height="35" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             x="0px" y="0px" viewBox="0 0 24 20.1" style="enable-background:new 0 0 24 20.1;" xml:space="preserve">
+					<path d="M14.5,14.1c1.4,0,2.5-1.1,2.5-2.5v-9c0-1.4-1.1-2.5-2.5-2.5h-12C1.1,0.1,0,1.3,0,2.6v9c0,1.4,1.1,2.5,2.5,2.5H4v2.5
+							c0,0.2,0.1,0.4,0.3,0.4c0.1,0,0.1,0.1,0.2,0.1c0.1,0,0.2,0,0.3-0.1l3.9-2.9H14.5z M8.2,13.2L5,15.6v-2c0-0.3-0.2-0.5-0.5-0.5h-2
+							c-0.8,0-1.5-0.7-1.5-1.5v-9c0-0.8,0.7-1.5,1.5-1.5h12c0.8,0,1.5,0.7,1.5,1.5v9c0,0.8-0.7,1.5-1.5,1.5h-6
+							C8.4,13.1,8.3,13.2,8.2,13.2z"/>
+            <path d="M21.5,3.1h-3c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h3c0.8,0,1.5,0.7,1.5,1.5v9c0,0.8-0.7,1.5-1.5,1.5h-2
+							c-0.3,0-0.5,0.2-0.5,0.5v2l-3.2-2.4c-0.1-0.1-0.2-0.1-0.3-0.1h-6c-0.3,0-0.6-0.1-0.9-0.3c-0.2-0.2-0.5-0.1-0.7,0.1S7.8,16.5,8,16.7
+							C8.5,17,9,17.1,9.5,17.1h5.8l3.9,2.9c0.1,0.1,0.2,0.1,0.3,0.1c0.1,0,0.2,0,0.2-0.1c0.2-0.1,0.3-0.3,0.3-0.4v-2.5h1.5
+							c1.4,0,2.5-1.1,2.5-2.5v-9C24,4.3,22.9,3.1,21.5,3.1z"/>
+				</svg>
+        <div class="Tools-tooltip">Contacto</div>
+    </a>
+    <a href="tel:+59824088080" class="Tools-item">
+        <svg width="41" height="35" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             x="0px" y="0px" viewBox="0 0 48 50" style="enable-background:new 0 0 48 50;" xml:space="preserve">
+					<path d="M37.9,50c-2.1,0-4.6-0.6-7.5-1.8c-5.3-2.3-11.3-6.5-16.6-11.9C2.2,24.7-3,11.9,1.8,7.1l3.9-3.9C6.5,2.4,7.5,2,8.6,2
+						s2.1,0.4,2.9,1.2l7.2,7.2c0.8,0.8,1.2,1.8,1.2,2.9s-0.4,2.1-1.2,2.9l-2.4,2.4c-0.5,0.5-0.4,1.9,0.3,3.6
+						c0.9,2.1,2.5,4.4,4.7,6.5c2.1,2.1,4.4,3.8,6.5,4.7c1.7,0.7,3.1,0.8,3.6,0.3l2.4-2.4c0.8-0.8,1.8-1.2,2.9-1.2
+						c1.1,0,2.1,0.4,2.9,1.2l7.2,7.2c1.6,1.6,1.6,4.2,0,5.9l-3.9,3.9C41.7,49.4,40,50,37.9,50z M8.6,4C8,4,7.5,4.2,7.1,4.6L3.2,8.5
+						c-3.5,3.5,0.5,14.9,12,26.3c5.2,5.2,10.9,9.3,16,11.5c4.8,2.1,8.5,2.2,10.3,0.5l3.9-3.9c0.8-0.8,0.8-2.2,0-3l-7.2-7.2l0,0
+						c-0.8-0.8-2.2-0.8-3,0l-2.4,2.4c-1.2,1.2-3.3,1.2-5.8,0.1c-2.3-1-4.8-2.8-7.1-5.1c-2.3-2.3-4.1-4.8-5.1-7.1
+						c-1.1-2.6-1.1-4.6,0.1-5.8l2.4-2.4c0.4-0.4,0.6-0.9,0.6-1.5c0-0.6-0.2-1.1-0.6-1.5l-7.2-7.2C9.7,4.2,9.2,4,8.6,4z"/>
+            <path d="M43.8,46.9c-0.3,0-0.5-0.1-0.7-0.3L31.5,35c-0.4-0.4-0.4-1,0-1.4s1-0.4,1.4,0l11.6,11.6c0.4,0.4,0.4,1,0,1.4
+					C44.3,46.8,44,46.9,43.8,46.9z"/>
+            <path d="M15.7,18.8c-0.3,0-0.5-0.1-0.7-0.3L3.4,6.9C3,6.5,3,5.9,3.4,5.5s1-0.4,1.4,0l11.6,11.6c0.4,0.4,0.4,1,0,1.4
+					C16.2,18.7,16,18.8,15.7,18.8z"/>
+				</svg>
+        <div class="Tools-tooltip">Comunicate con nosotros al 2408 8080</div>
+    </a>
+    <a href="/buscador-de-comercios.html"
+       class="Tools-item ">
+        <svg version="1.1"
+             id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="41px"
+             height="35px" viewBox="0 0 41 35" enable-background="new 0 0 41 35" xml:space="preserve">
+					<g>
+						<g>
+							<path d="M28.079,18.9h-4.894c-1.339,0-2.428,1.09-2.428,2.43v3.752c0,1.34,1.089,2.428,2.428,2.428h4.894 c1.339,0,2.429-1.088,2.429-2.428V21.33C30.508,19.99,29.418,18.9,28.079,18.9z M28.741,25.082c0,0.367-0.302,0.662-0.662,0.662 h-4.894c-0.368,0-0.661-0.301-0.661-0.662V21.33c0-0.369,0.301-0.662,0.661-0.662h4.894c0.368,0,0.662,0.301,0.662,0.662V25.082z"/>
+                            <path d="M38.506,12.081c0-0.155-0.037-0.302-0.118-0.435l-5.356-9.418c-0.154-0.272-0.448-0.449-0.766-0.449H8.727 c-0.316,0-0.61,0.169-0.765,0.449l-5.35,9.418c-0.074,0.133-0.118,0.28-0.118,0.435c0,2.111,1.273,3.922,3.091,4.724v15.533 c0,0.484,0.397,0.883,0.883,0.883h4.879c0.007,0,0.015,0,0.021,0h6.844c0.007,0,0.015,0,0.021,0h16.292 c0.485,0,0.883-0.398,0.883-0.883V16.914c0-0.036,0-0.065-0.008-0.095C37.226,16.017,38.506,14.199,38.506,12.081z M9.242,3.552 h22.509l4.187,7.366H5.062L9.242,3.552z M28.123,12.676c-0.279,1.589-1.67,2.796-3.34,2.796c-1.671,0-3.062-1.207-3.341-2.796 H28.123z M19.565,12.676c-0.279,1.589-1.67,2.796-3.341,2.796c-1.67,0-3.061-1.207-3.348-2.796H19.565z M4.319,12.676h6.688 c-0.279,1.589-1.678,2.796-3.348,2.796C5.989,15.48,4.599,14.266,4.319,12.676z M17.329,31.455h-5.078v-9.529 c0-0.691,0.56-1.258,1.259-1.258h2.568c0.691,0,1.258,0.559,1.258,1.258v9.529H17.329z M33.642,31.455H19.095v-9.529 c0-1.664-1.354-3.025-3.024-3.025h-2.568c-1.662,0-3.024,1.355-3.024,3.025v9.535H7.351V17.238 c0.104,0.008,0.206,0.008,0.31,0.008c1.78,0,3.355-0.905,4.282-2.281c0.927,1.376,2.502,2.281,4.282,2.281 c1.781,0,3.349-0.905,4.283-2.281c0.927,1.376,2.501,2.281,4.275,2.281c1.78,0,3.348-0.905,4.274-2.281 c0.928,1.376,2.502,2.281,4.283,2.281c0.103,0,0.198-0.008,0.301-0.008V31.455L33.642,31.455z M33.341,15.48 c-1.671,0-3.062-1.207-3.342-2.796h6.689C36.401,14.266,35.011,15.48,33.341,15.48z"/>
+						</g>
+					</g>
+				</svg>
+        <div class="Tools-tooltip">Buscador de Comercios</div>
+    </a>
+    <a href="https://blogedenred.com.uy/" target="_blank" class="Tools-item">
+        <svg version="1.1"
+             id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             width="41px"
+             height="35px" viewBox="0 0 41 35" enable-background="new 0 0 41 35" xml:space="preserve">
+					<g>
+						<path fill="#231F20"
+                              d="M26.023,33.561H14.912c-5.775,0-10.473-4.678-10.473-10.428V11.888c0-5.761,4.698-10.447,10.473-10.447 h6.763c2.848,0.333,6.729,2.611,8.199,5.721l0.136,0.282c0.342,0.698,0.533,1.159,0.803,3.232l0.029,0.224 c0.121,0.908,0.216,1.625,0.509,1.895c0.239,0.185,1.391,0.212,1.943,0.225c1,0.024,1.723,0.041,2.181,0.397l0.576,0.451 l0.406,0.889l0.105,0.4l-0.061,7.983C36.472,28.885,31.771,33.561,26.023,33.561z M21.58,3.045l-6.668,0.006 c-4.887,0-8.863,3.964-8.863,8.837v11.245c0,4.862,3.976,8.818,8.863,8.818h11.111c4.864,0,8.843-3.958,8.869-8.822l0.058-7.708 c-0.013-0.061-0.029-0.14-0.051-0.243l-0.132-0.271l-0.283-0.221c-0.112-0.031-0.784-0.046-1.229-0.057 c-1.15-0.027-2.34-0.056-2.99-0.646c-0.728-0.667-0.856-1.64-1.02-2.872l-0.03-0.225c-0.248-1.91-0.399-2.22-0.651-2.734 l-0.148-0.308C27.24,5.358,23.869,3.318,21.58,3.045z M26.207,25.928H14.822c-1.511,0-2.741-1.218-2.741-2.715 c0-1.495,1.229-2.711,2.741-2.711h11.385c1.506,0,2.73,1.216,2.73,2.711C28.938,24.71,27.713,25.928,26.207,25.928z M14.822,22.111 c-0.624,0-1.13,0.494-1.13,1.102c0,0.599,0.518,1.105,1.13,1.105h11.385c0.607,0,1.121-0.507,1.121-1.105 c0-0.607-0.503-1.102-1.121-1.102H14.822z M20.457,14.492H14.83c-1.516,0-2.749-1.215-2.749-2.708c0-1.491,1.233-2.704,2.749-2.704 h5.627c1.516,0,2.748,1.213,2.748,2.704C23.205,13.277,21.973,14.492,20.457,14.492z M14.83,10.691 c-0.628,0-1.139,0.49-1.139,1.093c0,0.595,0.521,1.098,1.139,1.098h5.627c0.628,0,1.139-0.492,1.139-1.098 c0-0.603-0.511-1.093-1.139-1.093H14.83z"/>
+					</g>
+				</svg>
+        <div class="Tools-tooltip">Blog Edenred</div>
+    </a>
+</div>
+
+
+		<!-- CONTENT -->
+		<section>
+			
+<!--BANNER HOME-->
+<!-- banner-home.nunjucks -->
+<div class="Carousel1 carouselBannerHome secondColor--yellow">
+	<div class="Carousel1-carou">
+
+		<!-- 20% Descuento TAE TRE 
+    <div class="Carousel1-item">
+      <div class="Focus1 Focus1--fullHeight Focus1--img">
+        <div class="Focus1-imgContainer" style="background-image: url('/img/banner_20_dto.jpg')"></div>
+        <div class="Focus1-text Focus1-text--ribbon">
+          <h3 class="h3">
+            <strong>20% de descuento en Restaurantes</strong> con <br/> Ticket Alimentación<sup>®</sup> <br/> y Ticket Restaurant<sup>®</sup>
+          </h3>
+          <a href="/docs/T&C_20_DTO_TA_TR.pdf" class="Button Button--standard">VER LISTADO</a>
+        </div>
+      </div>
+    </div>-->
+
+		<!-- <div class="Carousel1-item">
+      <div class="Focus1 Focus1--fullHeight Focus1--img">
+        <div class="Focus1-imgContainer" style="background-image: url('/img/focus16-img.jpg')"></div>
+        <div class="Focus1-text Focus1-text--ribbon">
+          <h3 class="h2" style="font-size: 30px;">
+            <strong>¡Esta promo es un golazo!</strong> <br> Ganate un Televisor Samsung Smart 55'. Participás con compras mayores a $ 1.000 en Restaurantes (de forma presencial, delivery o apps).
+          </h3>
+          <a href="https://www.edenred.com.uy/docs/T&C_Esta_Promo_es_un_Golazo.pdf" class="Button Button--standard">CONOCE MÁS AQUÍ</a>
+        </div>
+      </div>
+    </div> -->
+	<div class="Carousel1-item">
+		<!-- FOCUS 1 With image / Full Height with ribbon -->
+		<div class="Focus1 Focus1--fullHeight Focus1--img">
+			<div class="Focus1-imgContainer"
+				style="background-image: url('/img/Banner-web navidad 2024.jpg')"></div>
+			<div class="Focus1-text Focus1-text--ribbon">
+				<h3 class="h2 Focus1-text--title">
+					<strong>Compliments</strong>
+				</h3>
+				<h3 class="h2">
+					Compliments, la mejor opción para reconocer y premiar a tus colaboradores en estas fiestas.
+				</h3>
+				<a href="https://www.edenred.com.uy/compliments/clientes.html" class="Button Button--standard"
+					style="width: 120px;">SABER
+					MÁS</a>
+			</div>
+		</div>
+	</div>
+		<div class="Carousel1-item">
+			<!-- FOCUS 1 With image / Full Height with ribbon -->
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner-web-salud-home-1400x551.png')"></div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>Salud</strong>
+					</h3>
+					<h3 class="h2">
+						Es un producto para la compra de medicamentos y la realización de análisis clínicos y de laboratorio.
+					</h3>
+					<a href="https://productos.edenred.com.uy/edenred-salud-clientes.html" class="Button Button--standard"
+						style="width: 120px;">SABER
+						MÁS</a>
+				</div>
+			</div>
+		</div>
+		<!-- BANNER DÍA DEL NIÑO -->
+		<!--<div class="Carousel1-item">
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner-web-dia-del-nino-2024.jpg')"></div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>Compliments</strong>
+					</h3>
+					<h3 class="h2">
+						<strong>Día del niño</strong> <br>
+						La mejor opción para reconocer a tus colaboradores.
+					</h3>
+					<a href="https://www.edenred.com.uy/compliments/clientes.html" class="Button Button--standard"
+						style="width: 120px;">SABER MÁS</a>
+				</div>
+			</div>
+		</div>-->
+		<div class=" Carousel1-item">
+			<!-- FOCUS 1 With image / Full Height with ribbon -->
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner-web-flex-2023-1903x786.jpg')"></div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>FLEX</strong>
+					</h3>
+					<h3 class="h2">
+						Simplificá la gestión de beneficios de tu empresa, mejorando la calidad de vida de tus
+						colaboradores.
+					</h3>
+					<a href="/flex/clientes.html" class="Button Button--standard" style="width: 120px;">SABER MÁS</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="Carousel1-item">
+			<!-- FOCUS 1 With image / Full Height with ribbon -->
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner web Go Integro-Edenred V2.jpg'); background-position: left top;">
+				</div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>GOintegro</strong>
+					</h3>
+					<h3 class="h2">
+						Ahora es parte del Grupo Edenred!
+					</h3>
+					<div>
+						<a href="https://www.gointegro.com/?utm_source=Edenred&utm_medium=web&utm_campaign=banner&utm_id=Uruguay"
+							target="_blank" class="Button Button--standard" style="width: 150px;">Conócelo aquí</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="Carousel1-item">
+			<!-- FOCUS 1 With image / Full Height with ribbon -->
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner-web-TA-05-2023-1903x786.jpg')"></div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>Alimentación</strong>
+					</h3>
+					<h3 class="h2" style="margin-bottom: 50px;">
+						¡Todos los días contigo!
+					</h3>
+					<a href="https://www.edenred.com.uy/ticket-alimentacion/clientes.html" class="Button Button--standard"
+						style="width: 120px;">SABER
+						MÁS</a>
+				</div>
+			</div>
+		</div>
+
+		<!--<div class="Carousel1-item">
+      FOCUS 1 With image / Full Height with ribbon 
+      <div class="Focus1 Focus1--fullHeight Focus1--img">
+        <div class="Focus1-imgContainer" style="background-image: url('/img/focus12-img.jpg')"></div>
+        <div class="Focus1-text Focus1-text--ribbon">
+          <h3 class="h2" style="font-size: 30px;">
+            <strong>Edenred </strong>Empresarial<sup>®</sup> La solución integral para optimizar los gastos de tu empresa, generando ahorro en tiempo y recursos.
+          </h3>
+          <a href="https://www.edenred.com.uy/empresarial.html" class="Button Button--standard">SABER MÁS</a>
+        </div>
+      </div>
+    </div>-->
+
+		<div class="Carousel1-item">
+			<!-- FOCUS 1 With image / Full Height with ribbon -->
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner-web-ticket-transporte-2023.jpg')"></div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>Transporte<sup>®</sup></strong>
+					</h3>
+					<h3 class="h2">
+						Es una solución que te permite acceder al Sistema de Transporte
+						Metropolitano.
+					</h3>
+					<a href="https://www.edenred.com.uy/transporte/clientes.html" class="Button Button--standard"
+						style="width: 120px;">SABER
+						MÁS</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="Carousel1-item">
+			<!-- FOCUS 1 With image / Full Height with ribbon -->
+			<div class="Focus1 Focus1--fullHeight Focus1--img">
+				<div class="Focus1-imgContainer"
+					style="background-image: url('/img/Banner-web-ticket-combustible-2023.jpg')"></div>
+				<div class="Focus1-text Focus1-text--ribbon">
+					<h3 class="h2 Focus1-text--title">
+						<strong>Combustible<sup>®</sup></strong>
+					</h3>
+					<h3 class="h2">
+						Es una solución destinada a la compra de combustible en las
+						Estaciones de Servicio.
+					</h3>
+					<a href="https://www.edenred.com.uy/combustible/clientes.html" class="Button Button--standard"
+						style="width: 120px;">SABER
+						MÁS</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--/BANNER HOME-->
+
+<!-- BREADCRUMBS -->
+<div class="Breadcrumbs">
+	<ul class="Breadcrumbs-list">
+		<li class="Breadcrumbs-item"><a class="Breadcrumbs-link">Call center: 2408 80 80</a></li> |
+		<li class="Breadcrumbs-item"><a class="Breadcrumbs-link">Denuncias por robo/extravío - 2712 3333 opción 3</a></li>
+		|
+		<li class="Breadcrumbs-item"><a class="Breadcrumbs-link">Denuncia robo/extravío Edenred Transporte<sup>®</sup></a>
+		</li>
+		|
+		<li class="Breadcrumbs-item"><a class="Breadcrumbs-link is-active"
+				href="/transporte/beneficiarios.html">Clic
+				Aquí</a></li>
+	</ul>
+</div>
+
+<!--SOLUTIONS-->
+<div id="solutions" class="Solutions">
+	<h2 class="h2"><strong>Nuestros</strong> productos</h2>
+	<p class="t4">
+		Soluciones diseñadas para mejorar el desempeño de las organizaciones y facilitar la vida de los trabajadores.
+	</p>
+	<div class="Solutions-grid row">
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/ticket-alimentacion/clientes.html">
+					<img src="/img/solution1.jpg" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Alimentación<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<!--<div class="col-md-4">
+      <div class="Solutions-item">
+        <a href="/flota.html">
+          <img src="/img/solution7.jpg" alt="" class="Solutions-img" />
+          <div class="Solution-text">
+            <h4 class="h4">Edenred Flota<sup>®</sup></h4>
+          </div></a
+        >
+      </div>-->
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/ticket-restaurant/clientes.html">
+					<img src="/img/solution2.jpg" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Restaurant<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<!--<div class="col-md-3">
+      <div class="Solutions-item">
+        <a href="/ticket-restaurant/clientes.html">
+          <img src="/img/solution2.jpg" alt="" class="Solutions-img" />
+          <div class="Solution-text">
+            <h4 class="h4">Ticket Restaurant<sup>®</sup></h4>
+          </div></a
+        >
+      </div>
+    </div>-->
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/salud/clientes.html">
+					<img src="/img/solution11.png" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Salud<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/flex/clientes.html">
+					<img src="/img/solution10.jpg" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Flex<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/transporte/clientes.html">
+					<img src="/img/solution3.jpg" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Transporte<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/compliments/clientes.html">
+					<img src="/img/solution4.jpg" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Compliments<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="/combustible/clientes.html">
+					<img src="/img/solution5.jpg" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">Edenred Combustible<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="Solutions-item">
+				<a href="https://www.gointegro.com/">
+					<img src="/img/solution12.png" alt="" class="Solutions-img" />
+					<div class="Solution-text">
+						<h4 class="h4">GO integro<sup>®</sup></h4>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+<!--/SOLUTIONS-->
+
+<!--NOTICIAS EDENRED-->
+<!-- noticias-edenred.html -->
+<div class="Carousel1 secondColor--yellow">
+    <h2 class="Carousel1-title"><strong>Noticias Edenred</strong> últimos lanzamientos</h2>
+    <div class="Carousel1-carou">
+        <div class="Carousel1-item">
+            <div class="Carousel1-imgContainer">
+                <img class="Carousel1-img" src="/img/carousel1.png">
+            </div>
+            <div class="Carousel1-text">
+                <h5 class="Carousel1-textTitle"><strong>Descargá nuestra renovada App EdenredUY</strong>, disponible
+                    para Android e IOS y simplificá tu día a día.</h5>
+                <p class="t3">· Bloqueá y desbloqueá tu tarjeta · Modificá tu PIN <br></p>
+                <a href="https://itunes.apple.com/uy/app/edenreduy/id1156906638?l=es&mt=8" target="_blank" class="Button Button--standard">Apple
+                    Store</a>
+                <a href="https://play.google.com/store/apps/details?id=edenred.uy.mobile.beneficiaries&hl=es" target="_blank"
+                    class="Button Button--standard">Google Play </a>
+            </div>
+        </div>
+        <div class="Carousel1-item">
+            <div class="Carousel1-imgContainer">
+                <img class="Carousel1-img" src="/img/carousel2.png">
+            </div>
+            <div class="Carousel1-text">
+                <h5 class="Carousel1-textTitle"><strong>¡Subite a la practicidad!</strong> Edenred se suma al Sistema
+                    de Transporte Metropolitano con Edenred Transporte<sup>®</sup></h5>
+                <p class="t3">Más ahorro, más simple y más seguro. Infomate al: 2408 8080 Interno 7300</p>
+                <a href="/transporte/clientes.html" class="Button Button--standard">Saber Más</a>
+            </div>
+        </div>
+        <div class="Carousel1-item">
+            <div class="Carousel1-imgContainer">
+                <img class="Carousel1-img" src="/img/carousel4.png">
+            </div>
+            <div class="Carousel1-text">
+                <h5 class="Carousel1-textTitle"><strong>Edenred Combustible<sup>®</sup></strong> es la forma más
+                    eficiente y segura de cargar combustible. </h5>
+                <p class="t3">La solución destinada a la compra de combustible en las Estaciones de Servicio</p>
+                <a href="/combustible/clientes.html" class="Button Button--standard">Saber Más</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/NOTICIAS EDENRED-->
+
+<!-- TWIN BLOCKS -->
+<div class="TwinBlocks">
+	<div class="TwinBlock TwinBlock--white" style="height: 450px">
+		<div class="TwinBlock-imgContainer"><img class="TwinBlock-img" src="/img/twinblock11.png"></div>
+		<div class="TwinBlock-text">
+			<p class="t4"><strong>Edenred</strong> es una plataforma digital líder para servicios y pagos y el
+				compañero diario de las personas en el trabajo, que conecta a más de
+				52 millones de usuarios y 2 millones de comerciantes asociados en 45
+				países a través de aproximadamente 1 millón de clientes corporativos.</p>
+			<a class="Button Button--standard" href="/nosotros.html">Saber Más</a>
+		</div>
+	</div>
+	<div class="TwinBlock TwinBlock--bkg" style="height: 450px">
+
+		<div class="TwinBlock-svg">
+			<svg widht="140" height="185" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 38.6 51.1"
+				style="enable-background:new 0 0 38.6 51.1;" xml:space="preserve">
+				<path fill="#ffffff" d="M38.3,31.7c0.2-0.1,0.3-0.3,0.3-0.4l0-19.1c0-0.1,0.1-0.3-0.2-0.4c-0.1-0.1-0.3-0.1-0.4,0l-10.1,6v-3.9c0-1.1-1-2.1-2.1-2.1
+                        h-4.4l0.9-0.9c1.2-1.1,1.9-2.8,1.9-4.5c0-3.5-2.9-6.4-6.4-6.4c-2.8,0-5.3,1.8-6.1,4.5l-0.3,0.8l-0.6-0.6c-0.8-0.8-2-1.3-3.2-1.3
+                        C5,3.4,3,5.5,3,8.1c0,1.2,0.6,2.3,1.1,2.9l0.6,0.8H2.5c-1.1,0-2.1,1-2.1,2.1v15.8c0,1.1,1,2.1,2.1,2.1h3.2L0,50.4
+                        c-0.1,0.1,0,0.3,0,0.4c0,0.1,0.1,0.2,0.2,0.2c0.2,0.1,0.3,0.1,0.4,0c0.1,0,0.2-0.1,0.2-0.2l5.7-19h6.6v15.5c0,0.2,0.2,0.5,0.5,0.5
+                        c0.3,0,0.5-0.2,0.5-0.5V31.8h6.6l5.7,19c0.1,0.2,0.3,0.4,0.5,0.3c0.1-0.1,0.2-0.1,0.3-0.2c0.1-0.1,0.1-0.2,0-0.3l-5.6-18.7h4
+                        c1.1,0,2.1-1,2.1-2.1v-3.9l10.1,5.8C38,31.8,38.1,31.8,38.3,31.7z M18,0.9c3,0,5.4,2.4,5.4,5.4s-2.4,5.4-5.4,5.4
+                        c-3,0-5.4-2.4-5.4-5.4C12.6,3.3,14.9,0.9,18,0.9z M12.5,9.5l0.4,0.6c0.2,0.3,0.4,0.6,0.6,0.8l0.9,0.9h-3.4L12.5,9.5z M4.1,8.1
+                        c0-2,1.7-3.7,3.7-3.7c2,0,3.7,1.7,3.7,3.7c0,2-1.7,3.7-3.7,3.7C5.8,11.8,4.1,10.1,4.1,8.1z M26.9,17.6c-0.1,4.6-0.1,4.6-0.1,12
+                        c0,0.7-0.5,1.2-1.2,1.2H2.5c-0.7,0-1.2-0.5-1.2-1.2V13.9c0-0.7,0.5-1.2,1.2-1.2h23.3c0.7,0,1.2,0.5,1.2,1.2L26.9,17.6z M37.7,30.5
+                        l-9.8-5.8v-5.9l9.8-5.8V30.5z" />
+				<path fill="#ffffff" d="M13.3,22.2H4.8c-0.2,0-0.5,0.2-0.5,0.5v4.7c0,0.2,0.2,0.5,0.5,0.5h8.5c0.2,0,0.5-0.2,0.5-0.5v-4.7
+                        C13.7,22.4,13.5,22.2,13.3,22.2z M12.8,26.9H5.3v-3.8h7.5V26.9z" />
+				<path fill="#ffffff"
+					d="M22.8,16c-0.2,0-0.5,0.2-0.5,0.5v1.7c0,0.2,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5v-1.7C23.3,16.2,23.1,16,22.8,16z" />
+				<path fill="#ffffff"
+					d="M17,16c-0.2,0-0.5,0.2-0.5,0.5v1.7c0,0.2,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5v-1.7C17.4,16.2,17.2,16,17,16z" />
+			</svg>
+		</div>
+		<div class="TwinBlock-layer"></div>
+		<div class="TwinBlock-textBkg">
+			<p class="t2"><strong>Quienes Somos</strong><br /> Conocé más de nosotros.</p>
+			<a onclick="document.getElementById('modalInfo').style.display='block'" style="cursor: pointer;"
+				class="Button Button--white" id="openModal">Ver</a>
+		</div>
+	</div>
+</div>
+
+<!-- KEYFIGURE 1 -->
+<div class="Keyfigure1 secondColor--yellow">
+	<h5 class="h5"><strong>Liderazgo </strong><br />mundial</h5>
+	<div class="Keyfigure1-carou">
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+
+				<p class="t1"><strong>Euronext
+						<br />
+						tech leaders</strong></p>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+
+				<p class="t1">Presencia en </p>
+				<h4 class="h4">45 Países</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Beneficiarios</p>
+				<h4 class="h4">+ 60 millones</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Clientes</p>
+				<h4 class="h4">+ 1millón</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Comercios Afiliados</p>
+				<h4 class="h4">2 millones</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Volumen de negocios</p>
+				<h4 class="h4">~€38bn</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Empleados</p>
+				<h4 class="h4">~12.000</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Transacciones</p>
+				<h4 class="h4">>2,5bn</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">CAC</p>
+				<h4 class="h4">40</h4>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /KEYFIGURE 1 -->
+
+<!-- Teaser -->
+<div class="Teaser secondColor--yellow" style="background-image:url('/img/teaser.jpg');">
+	<div class="Teaser-layer"></div>
+	<div class="Teaser-intro">
+		<h2 class="h2"><strong>+50 Años</strong> de Innovación y Crecimiento</h2>
+		<p class="t4">Edenred, líder mundial en servicios corporativos, proponemos soluciones destinadas al bienestar
+			individual y la mejora del desempeño de las organizaciones.<br><br><strong>Nuestro criterios de
+				servicios:</strong></p>
+	</div>
+
+	<div class="Teaser-carou">
+		<div class="Teaser-item">
+			<div class="Teaser-icon">
+				<svg width="50" height="43" class="Teaser-svg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 53 46"
+					style="enable-background:new 0 0 53 46;" xml:space="preserve">
+					<path d="M49.3,27.9l-7,1c0.5,0.6,0.8,1.3,0.9,2.1c0.3,2.4-1.3,4.6-3.7,4.9l-4.9,0.7c0.5,0.6,0.8,1.3,0.9,2.1
+                        c0.3,2.4-1.3,4.6-3.7,4.9L28.6,44l0,0l-12.9,1.9C9.3,46.8,3.2,42.3,2.3,35.8l-1-7.1c-1.6-10.9,4.4-15,8.5-16.5L9.4,9.6
+                        c-0.3-2.4,1.3-4.6,3.7-4.9L45.2,0c2.4-0.3,4.6,1.3,4.9,3.7L52.9,23C53.3,25.3,51.6,27.5,49.3,27.9z M3.4,28.4l1,7.1
+                        c0.8,5.3,5.7,9,11,8.2l12.9-1.9h0l3.2-0.5c1.2-0.2,2-1.3,1.8-2.5c-0.2-1.2-1.3-2-2.5-1.8l-5.4,0.8C25,38,24.4,37.6,24.3,37
+                        c-0.1-0.6,0.3-1.1,0.9-1.2l5.4-0.8l8.6-1.2c1.2-0.2,2-1.3,1.8-2.5c-0.2-1.2-1.3-2-2.5-1.8l-13.9,2c0,0,0,0,0,0l-7.5,1.1
+                        c-2.4,0.3-4.6-1.3-4.9-3.7l0-0.1c-0.3,0.1-0.7,0.2-1.1,0.3c-0.6,0.1-1.1-0.3-1.2-0.9c-0.1-0.6,0.3-1.1,0.9-1.2
+                        c0.4-0.1,0.8-0.2,1.1-0.4c0.1-0.5,0.4-0.9,0.9-1c0,0,0.1,0,0.1,0c1.4-1.8,2.1-4.7,2.3-6.1c0.1-0.5,0.4-0.9,0.9-0.9l4.3-0.6
+                        c1.1-0.2,3.2-0.9,2.9-2.6l-0.2-1.1c-0.2-1.6-2.2-1.9-3.5-1.7l-6.4,0.9C10.5,13.8,1.6,16.1,3.4,28.4z M48,4c-0.2-1.2-1.3-2-2.5-1.8
+                        L13.4,6.9c-1.2,0.2-2,1.3-1.8,2.5l0.3,2.2c0.4-0.1,0.8-0.2,1.1-0.2l6.4-0.9c1.9-0.3,3.8,0.2,5,1.5l24.2-3.5L48,4z M50.8,23.3
+                        l-1.9-12.9l-23.6,3.4l0.2,1.1c0.4,2.8-2.1,4.7-4.7,5.1l-3.5,0.5c-0.3,1.5-1.2,4.8-3.1,6.9l0.2,1.2c0.2,1.2,1.3,2,2.5,1.8l7.5-1.1
+                        c0,0,0,0,0,0l5.5-0.8L49,25.7C50.1,25.6,51,24.5,50.8,23.3z M46.3,15.2l-6.4,0.9c-0.6,0.1-1.1-0.3-1.2-0.9c-0.1-0.6,0.3-1.1,0.9-1.2
+                        l6.4-0.9c0.6-0.1,1.1,0.3,1.2,0.9C47.3,14.6,46.9,15.1,46.3,15.2z" />
+				</svg>
+			</div>
+			<h6 class="h6">Simplicidad</h6>
+			<svg class="Teaser-bar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px"
+				height="10px">
+				<path fill-rule="evenodd" fill="rgb(255, 226, 130)"
+					d="M5.781,0.000 L65.781,0.000 C68.543,0.000 70.781,2.239 70.781,5.000 C70.781,7.761 68.543,10.000 65.781,10.000 L5.781,10.000 C3.020,10.000 0.781,7.761 0.781,5.000 C0.781,2.239 3.020,0.000 5.781,0.000 Z" />
+			</svg>
+		</div>
+		<div class="Teaser-item">
+			<div class="Teaser-icon">
+				<svg width="35" height="50" class="Teaser-svg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 34 49"
+					style="enable-background:new 0 0 34 49;" xml:space="preserve">
+					<path d="M33.4,48.9C33.3,48.9,33.1,49,33,49c-0.3,0-0.5-0.1-0.7-0.3L29,45.3l-3.3,3.4c-0.4,0.4-1,0.4-1.4,0L21,45.3l-3.3,3.4
+                        c-0.4,0.4-1,0.4-1.4,0L13,45.3l-3.3,3.4c-0.4,0.4-1,0.4-1.4,0L5,45.3l-3.3,3.4C1.4,49,1,49,0.6,48.9C0.2,48.7,0,48.4,0,47.9V1
+                        c0-0.4,0.2-0.8,0.6-0.9C1-0.1,1.4,0,1.7,0.3L5,3.7l3.3-3.4c0.4-0.4,1-0.4,1.4,0L13,3.7l3.3-3.4c0.4-0.4,1-0.4,1.4,0L21,3.7l3.3-3.4
+                        c0.4-0.4,1-0.4,1.4,0L29,3.7l3.3-3.4C32.6,0,33-0.1,33.4,0.1C33.8,0.2,34,0.6,34,1v46.9C34,48.4,33.8,48.7,33.4,48.9z M32,3.5
+                        l-2.3,2.3c-0.4,0.4-1,0.4-1.4,0L25,2.5l-3.3,3.4c-0.4,0.4-1,0.4-1.4,0L17,2.5l-3.3,3.4c-0.4,0.4-1,0.4-1.4,0L9,2.5L5.7,5.8
+                        c-0.4,0.4-1,0.4-1.4,0L2,3.5v42l2.3-2.3c0.4-0.4,1-0.4,1.4,0L9,46.5l3.3-3.4c0.4-0.4,1-0.4,1.4,0l3.3,3.4l3.3-3.4
+                        c0.2-0.2,0.5-0.3,0.7-0.3s0.5,0.1,0.7,0.3l3.3,3.4l3.3-3.4c0.4-0.4,1-0.4,1.4,0l2.3,2.3V3.5z M27,32.6h-2c-0.6,0-1-0.5-1-1
+                        c0-0.6,0.4-1,1-1h2c0.6,0,1,0.5,1,1C28,32.2,27.6,32.6,27,32.6z M27,26.5h-2c-0.6,0-1-0.5-1-1c0-0.6,0.4-1,1-1h2c0.6,0,1,0.5,1,1
+                        C28,26.1,27.6,26.5,27,26.5z M27,20.4h-2c-0.6,0-1-0.5-1-1c0-0.6,0.4-1,1-1h2c0.6,0,1,0.5,1,1C28,20,27.6,20.4,27,20.4z M27,14.3h-2
+                        c-0.6,0-1-0.5-1-1c0-0.6,0.4-1,1-1h2c0.6,0,1,0.5,1,1C28,13.8,27.6,14.3,27,14.3z M19,14.3H7c-0.6,0-1-0.5-1-1c0-0.6,0.4-1,1-1h12
+                        c0.6,0,1,0.5,1,1C20,13.8,19.6,14.3,19,14.3z M7,18.4h8c0.6,0,1,0.5,1,1c0,0.6-0.4,1-1,1H7c-0.6,0-1-0.5-1-1C6,18.8,6.5,18.4,7,18.4
+                        z M7,24.5h10c0.6,0,1,0.5,1,1c0,0.6-0.4,1-1,1H7c-0.6,0-1-0.5-1-1C6,24.9,6.5,24.5,7,24.5z M7,30.6h6c0.6,0,1,0.5,1,1
+                        c0,0.6-0.4,1-1,1H7c-0.6,0-1-0.5-1-1C6,31.1,6.5,30.6,7,30.6z" />
+				</svg>
+			</div>
+			<h6 class="h6">Eficiencia</h6>
+			<svg class="Teaser-bar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px"
+				height="10px">
+				<path fill-rule="evenodd" fill="rgb(255, 226, 130)"
+					d="M5.781,0.000 L65.781,0.000 C68.543,0.000 70.781,2.239 70.781,5.000 C70.781,7.761 68.543,10.000 65.781,10.000 L5.781,10.000 C3.020,10.000 0.781,7.761 0.781,5.000 C0.781,2.239 3.020,0.000 5.781,0.000 Z" />
+			</svg>
+		</div>
+		<div class="Teaser-item">
+			<div class="Teaser-icon">
+				<svg class="Teaser-svg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 57.9"
+					style="enable-background:new 0 0 64 57.9;" xml:space="preserve">
+					<path
+						d="M64.4,24.2L45.9,5.7l-7.6,7.5c-1.6,1.4-3,1.5-4.7,1.7c-0.9,0.1-1.9,0.2-3,0.5c-0.8,0.2-1.5,0.5-2.1,0.7L18.1,5.7L-0.4,24.2
+                            l9.6,9.6C9,34,8.9,34.1,8.7,34.2l-1,1C7,36,6.6,37,6.6,38s0.4,2,1.1,2.7L7.9,41c0.7,0.7,1.7,1.1,2.7,1.1c0.1,0,0.1,0,0.2,0
+                            c-0.1,1,0.3,2.1,1.1,2.9l0.3,0.3c0.7,0.7,1.7,1.1,2.7,1.1c0.1,0,0.1,0,0.2,0c0,0.1,0,0.1,0,0.2c0,1,0.4,2,1.1,2.7l0.3,0.3
+                            c0.7,0.7,1.7,1.1,2.7,1.1c0.1,0,0.1,0,0.2,0c-0.1,1,0.3,2.1,1.1,2.9l0.3,0.3c0.7,0.7,1.7,1.1,2.7,1.1s2-0.4,2.7-1.1l0.9-0.9h0
+                            c0.2-0.2,0.4-0.4,0.5-0.6l4.4,4.4c0.8,0.8,1.8,1.2,2.8,1.2c1,0,2.1-0.4,2.8-1.2c0.9-0.9,1.2-2,1.1-3.1c0.1,0,0.2,0,0.3,0
+                            c1.1,0,2.1-0.4,2.8-1.2s1.2-1.8,1.2-2.8c0-0.1,0-0.2,0-0.3c0.1,0,0.2,0,0.3,0c1.1,0,2.1-0.4,2.8-1.2s1.2-1.8,1.2-2.8
+                            c0-0.1,0-0.2,0-0.3c0.1,0,0.2,0,0.3,0c1,0,2.1-0.4,2.8-1.2c0.8-0.8,1.2-1.8,1.2-2.8s-0.4-2.1-1.2-2.8l0,0L64.4,24.2z M45.9,8.5
+                            l15.7,15.7l-4.7,4.7L41.2,13.2L45.9,8.5z M18.1,8.6l4.7,4.7L7.1,28.9l-4.7-4.7L18.1,8.6z M9.4,39.5l-0.3-0.3
+                            c-0.3-0.3-0.5-0.8-0.5-1.3s0.2-1,0.5-1.3l1-1c0.4-0.4,0.8-0.5,1.3-0.5c0.5,0,0.9,0.2,1.3,0.5l0.3,0.3c0.3,0.3,0.5,0.8,0.5,1.3
+                            s-0.2,1-0.5,1.3l-1,1C11.3,40.2,10,40.2,9.4,39.5z M13.6,43.8l-0.3-0.3c-0.7-0.7-0.7-1.9,0-2.6l1-1l2-2c0.4-0.4,0.8-0.5,1.3-0.5
+                            c0.5,0,0.9,0.2,1.3,0.5l0.3,0.3c0.3,0.3,0.5,0.8,0.5,1.3s-0.2,1-0.5,1.3l-1,1l-2,2C15.5,44.5,14.3,44.5,13.6,43.8z M17.9,48.1
+                            l-0.3-0.3c-0.3-0.3-0.5-0.8-0.5-1.3s0.2-1,0.5-1.3l2-2c0.3-0.3,0.8-0.5,1.3-0.5s1,0.2,1.3,0.5l0.3,0.3c0.3,0.3,0.5,0.8,0.5,1.3
+                            s-0.2,1-0.5,1.3l-2,2C19.8,48.8,18.6,48.8,17.9,48.1z M25.7,51.5l-0.9,0.9c-0.7,0.7-1.9,0.7-2.6,0l-0.3-0.3c-0.7-0.7-0.7-1.9,0-2.6
+                            l0.9-0.9c0.4-0.4,0.8-0.5,1.3-0.5s0.9,0.2,1.3,0.5l0.3,0.3c0.3,0.3,0.5,0.8,0.5,1.3S26,51.1,25.7,51.5z M49.1,42.4
+                            c-0.8,0.8-2.1,0.8-2.9,0l-3.9-3.9c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4l3.9,3.9c0.8,0.8,0.8,2.1,0,2.9c-0.8,0.8-2.1,0.8-2.9,0
+                            l-3.9-3.9c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4l3.9,3.9c0.4,0.4,0.6,0.9,0.6,1.4s-0.2,1.1-0.6,1.4c-0.8,0.8-2.1,0.8-2.9,0l-3.9-3.9
+                            c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4l3.9,3.9c0.8,0.8,0.8,2.1,0,2.9c-0.8,0.8-2.1,0.8-2.9,0l-5.1-5.2c0,0-0.1,0-0.1,0
+                            c0-1-0.4-1.9-1.1-2.6l-0.3-0.3c-0.6-0.6-1.3-0.9-2-1c0.2-0.4,0.3-0.9,0.3-1.4c0-1-0.4-2-1.1-2.7l-0.3-0.3c-0.6-0.6-1.3-0.9-2.1-1
+                            c0.1-0.4,0.2-0.8,0.2-1.3c0-1-0.4-2-1.1-2.7l-0.3-0.3c-1.4-1.4-3.5-1.5-5-0.3c-0.2-0.6-0.5-1.2-1-1.7l-0.3-0.3
+                            c-0.8-0.8-1.9-1.2-2.9-1.1l0,0l-2.8-2.8l15.7-15.7l2.4,2.4c-1.6,0.9-2.6,2-4,3.4c-0.3,0.3-3.3,3.3-3.3,3.3c-1.6,1.6-1.6,4.1,0,5.7
+                            c0.8,0.8,1.8,1.2,2.8,1.2c1,0,2.1-0.4,2.8-1.2l4-4c0.9-0.9,3.2,0.1,5.9,1.3c0.8,0.4,1.7,0.8,2.6,1.2c0,0.1,0.1,0.1,0.1,0.2
+                            l11.5,11.5c0.4,0.4,0.6,0.9,0.6,1.4S49.5,42.1,49.1,42.4z M49.1,36.7l-7.5-7.5c1.9,0.4,3.9,0.6,6,0.1c0.5-0.1,0.9-0.7,0.7-1.2
+                            c-0.1-0.5-0.7-0.9-1.2-0.7c-4,0.9-7.9-0.9-11.4-2.5c-3.4-1.5-6.3-2.8-8.2-0.9l-4,4c-0.8,0.8-2.1,0.8-2.9,0c-0.8-0.8-0.8-2.1,0-2.9
+                            c0,0,3-3,3.3-3.3c2.2-2.2,3.3-3.4,7.1-4.4c0.9-0.3,1.8-0.3,2.7-0.4c1.9-0.2,3.8-0.4,5.8-2.2l0.2-0.1l15.7,15.7L49.1,36.7z" />
+				</svg>
+			</div>
+			<h6 class="h6">Calidez</h6>
+			<svg class="Teaser-bar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px"
+				height="10px">
+				<path fill-rule="evenodd" fill="rgb(255, 226, 130)"
+					d="M5.781,0.000 L65.781,0.000 C68.543,0.000 70.781,2.239 70.781,5.000 C70.781,7.761 68.543,10.000 65.781,10.000 L5.781,10.000 C3.020,10.000 0.781,7.761 0.781,5.000 C0.781,2.239 3.020,0.000 5.781,0.000 Z" />
+			</svg>
+		</div>
+		<div class="Teaser-item">
+			<div class="Teaser-icon">
+				<svg width="50" height="50" class="Teaser-svg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 51 51"
+					style="enable-background:new 0 0 51 51;" xml:space="preserve">
+					<path d="M50.8,44.1c-0.2,0.3-0.6,0.5-1.1,0.4l-7.4-1.2l-2.6,7c-0.1,0.4-0.5,0.7-0.9,0.7c0,0-0.1,0-0.1,0c-0.4,0-0.7-0.2-0.9-0.5
+                        l-6.5-10.9c-1.8,0.5-3.7,0.8-5.7,0.8c-2.1,0-4.1-0.3-6-0.9l-6.6,11c-0.2,0.3-0.5,0.5-0.9,0.5c0,0-0.1,0-0.1,0
+                        c-0.4,0-0.8-0.3-0.9-0.7l-2.6-7l-7.4,1.2c-0.4,0.1-0.8-0.1-1.1-0.4c-0.2-0.3-0.3-0.8,0-1.1l7.7-13.2c-1.6-2.9-2.5-6.1-2.5-9.6
+                        C5.3,9.1,14.5,0,25.7,0C36.9,0,46,9.1,46,20.2c0,3.6-1,7-2.6,9.9L50.8,43C51.1,43.4,51,43.8,50.8,44.1z M3.1,42.1l6-1
+                        c0.5-0.1,1,0.2,1.2,0.7l2.1,5.7l5.2-8.7c-3.4-1.5-6.4-3.9-8.5-6.9L3.1,42.1z M43.9,20.2c0-10-8.2-18.1-18.2-18.1S7.5,10.2,7.5,20.2
+                        s8.2,18.1,18.2,18.1S43.9,30.2,43.9,20.2z M42,32.1c-2.2,3-5.2,5.3-8.6,6.7l5.2,8.6l2.1-5.7c0.2-0.5,0.7-0.8,1.2-0.7l6,1L42,32.1z
+                            M31.2,21.6l1.9,6.8c0.1,0.4,0,0.9-0.4,1.1c-0.2,0.1-0.4,0.2-0.6,0.2c-0.2,0-0.4-0.1-0.6-0.2L25.7,26l-5.9,3.6
+                        c-0.4,0.2-0.9,0.2-1.2-0.1s-0.5-0.7-0.4-1.1l1.9-6.8l-4.8-3.8c-0.4-0.3-0.5-0.8-0.3-1.2c0.2-0.4,0.6-0.7,1-0.7h5.8l2.9-5.8
+                        c0.4-0.7,1.6-0.7,1.9,0l2.9,5.8h5.8c0.5,0,0.9,0.3,1,0.7c0.2,0.4,0,0.9-0.3,1.2L31.2,21.6z M28.9,18.1c-0.4,0-0.8-0.2-1-0.6L25.7,13
+                        l-2.3,4.5c-0.2,0.4-0.6,0.6-1,0.6h-3.4l3,2.4c0.3,0.3,0.5,0.7,0.4,1.1L21,26.3l4.1-2.5c0.2-0.1,0.4-0.2,0.6-0.2
+                        c0.2,0,0.4,0.1,0.6,0.2l4.1,2.5l-1.4-4.8c-0.1-0.4,0-0.9,0.4-1.1l3-2.4H28.9z" />
+				</svg>
+
+			</div>
+			<h6 class="h6">Dinamismo</h6>
+			<svg class="Teaser-bar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px"
+				height="10px">
+				<path fill-rule="evenodd" fill="rgb(255, 226, 130)"
+					d="M5.781,0.000 L65.781,0.000 C68.543,0.000 70.781,2.239 70.781,5.000 C70.781,7.761 68.543,10.000 65.781,10.000 L5.781,10.000 C3.020,10.000 0.781,7.761 0.781,5.000 C0.781,2.239 3.020,0.000 5.781,0.000 Z" />
+			</svg>
+		</div>
+	</div>
+</div>
+
+<!-- KEYFIGURE 2 -->
+<div class="Keyfigure1 secondColor--yellow">
+	<h5 class="h5"><strong>Edenred </strong><br />en Uruguay</h5>
+	<div class="Keyfigure1-carou">
+
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Beneficiarios en Uruguay</p>
+				<h4 class="h4">+ 120.000</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Clientes en Uruguay</p>
+				<h4 class="h4">+ 3.000</h4>
+			</div>
+		</div>
+		<div class="Keyfigure1-item">
+			<svg width="72" height="191" class="Keyfigure1-bkg" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 191"
+				style="enable-background:new 0 0 72 191;" xml:space="preserve">
+				<path opacity="0.5" class="st0" d="M62.6,171c-4.7,0-8.6-3.8-8.6-8.6V18.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C71.1,167.2,67.3,171,62.6,171z M35.6,191c-4.7,0-8.6-3.8-8.6-8.6V38.6c0-4.7,3.8-8.6,8.6-8.6c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C44.1,187.2,40.3,191,35.6,191z M8.6,161c-4.7,0-8.6-3.8-8.6-8.6V8.6C0,3.8,3.8,0,8.6,0c4.7,0,8.6,3.8,8.6,8.6v143.8
+                    C17.1,157.1,13.3,161,8.6,161z" />
+			</svg>
+			<div class="Keyfigure1-text">
+				<p class="t1">Comercios Afiliados en Uruguay</p>
+				<h4 class="h4">+ 15.000</h4>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /KEYFIGURE 2 -->
+
+<!-- Modal -->
+<div id="modalInfo" class="modal">
+	<!-- Modal content -->
+	<div class="modal2-content">
+		<span onclick="document.getElementById('modalInfo').pause();" class="close">&times;</span>
+		<div class="embedresize">
+			<div>
+				<iframe id="videoIframe" width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media"
+					allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var modal = document.getElementById('modalInfo');
+	var btn = document.getElementById("openModal");
+	var span = document.getElementsByClassName("close")[0];
+	var video = "https://www.youtube.com/embed/HV9auFrWWm4?rel=0";
+	var currentIframe = document.getElementById('videoIframe');
+	btn.onclick = function () {
+		modal.style.display = "block";
+		currentIframe.src = video;
+	}
+
+	span.onclick = function () {
+		modal.style.display = "none";
+		currentIframe.src = "";
+	}
+
+</script>
+
+		</section>
+
+		<!-- FOOTER -->
+		<footer class="Footer">
+
+			<!-- Footer / Logo -->
+			<div class="Footer-logo">
+				<a href="https://edenred.com/">
+					<svg class="Footer-logoSvg" width="161" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+						xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 391.3 239.9"
+						style="enable-background:new 0 0 391.3 239.9;" xml:space="preserve">
+						<path d="M149.5,104.5c-6.8,0-11.1,4.4-12.4,10.3h24.2C160.4,108.3,155.8,104.5,149.5,104.5z" />
+						<path d="M84.9,107.1c-8.6,0-14.1,6-14.1,14.3c0,8.2,5.6,14.4,14.1,14.4s14.3-5.9,14.3-14.4
+								C99.2,112.9,93.4,107.1,84.9,107.1z" />
+						<path d="M259.3,93.4c-13,0-23.1,5.2-24.7,18.6c-0.1,0,0.1,0,0,0c-4.1-61-52.2-109.1-114.1-109.1
+								C71.4,2.9,29.5,33,12,75.8h41.5l-2.2,14H18.8v14.8h29.5L46,118H18.8v8.6c0,5.2,2.3,7.7,6.6,7.7h27.9l-2.3,14H20.1
+								c-1.5,0-2.9-0.1-4.3-0.4v0c0,0-5.3-0.6-8.6-4.9c-0.1-0.1-1.4-1.7-2.1-4.3c-0.2-0.7-0.2-0.7-0.3-1.3c0.2,1.7,0.6,4.1,0.8,4.9
+								c0.9,4.9,2.1,9,2.2,9.3c13.9,49.2,59,85.2,112.6,85.2c54.8,0,101.1-37.7,113.8-88.6h-15.7v-28.6c0-7.7-3-12.6-10.6-12.6
+								c-7.6,0-10.6,4.9-10.6,12.6v28.6h-15.7v-32.5c0-15.5,11.3-22.4,26.3-22.4c15,0,26.3,6.9,26.3,22.4l0,32.5H250v-28.6
+								c0-7.7,2.1-12.6,9.6-12.6c2.4,0,5.2,0.7,6.3,1.2l3-13.8C267.1,94.4,262.7,93.4,259.3,93.4z M115,118.2c0,19.6-11.6,31.2-30.8,31.2
+								c-17.8,0-29.8-11.9-29.8-28c0-16.8,11.4-28,28.5-28c7.8,0,13.6,3.1,16.5,6.2V75.8H115V118.2z M154.7,137.5c4.6,0,8.9-1.3,12.9-3.2
+								l-1.3,12.4c-4.5,1.9-10,2.6-15.4,2.6c-18.1,0-30.8-10.6-30.8-28.6c0-15.6,11.4-27.3,28.9-27.3c19.7,0,29.6,12.5,29.2,31.9h-40.7
+								C139,134.2,147.4,137.5,154.7,137.5z" />
+						<path d="M294.9,93.4c-17.5,0-28.9,11.7-28.9,27.3c0,18,12.7,28.6,30.8,28.6c5.4,0,10.9-0.7,15.4-2.6l1.3-12.4
+								c-4,1.9-8.3,3.2-12.9,3.2c-7.3,0-15.7-3.4-17.3-12.2h40.7C324.6,106,314.7,93.4,294.9,93.4z M283,114.8
+								c1.3-5.9,5.7-10.3,12.4-10.3c6.4,0,10.9,3.8,11.7,10.3H283z" />
+						<path d="M370.8,75.8v23.9c-2.9-3.1-8.6-6.2-16.5-6.2c-17.1,0-28.5,11.2-28.5,28c0,16,12,28,29.8,28
+								c19.2,0,30.8-11.5,30.8-31.2V75.8H370.8z M356.4,135.8c-8.5,0-14.1-6.2-14.1-14.4c0-8.3,5.4-14.3,14.1-14.3
+								c8.5,0,14.3,5.8,14.3,14.3C370.7,129.9,365,135.8,356.4,135.8z" />
+					</svg>
+				</a>
+			</div>
+
+
+			<!-- Footer / nav -->
+			<div class="Footer-nav">
+				<div class="Footer-navColumn">
+					<p class="Footer-navTitle"><strong>Beneficios Para Empleados</strong></p>
+					<ul class="Footer-navList">
+						<li><a class="Footer-navLink" href="/ticket-alimentacion/clientes.html">Edenred
+								Alimentación<sup>®</sup></a></li>
+						<li><a class="Footer-navLink" href="/ticket-restaurant/clientes.html">Edenred
+								Restaurant<sup>®</sup></a></li>
+						<li><a class="Footer-navLink" href="/transporte/clientes.html">Edenred
+								Transporte<sup>®</sup></a></li>
+						<li><a class="Footer-navLink" href="/flex/clientes.html">Edenred Flex<sup>®</sup></a></li>
+						<li><a class="Footer-navLink" href="/salud/clientes.html">Edenred Salud<sup>®</sup></a></li>
+						<li><a class="Footer-navLink" href="https://www.gointegro.com/">GOintegro | Edenred</a></li>
+					</ul>
+				</div>
+				<div class="Footer-navColumn">
+					<p class="Footer-navTitle"><strong>Incentivos Y Motivación</strong></p>
+					<ul class="Footer-navList">
+						<li><a class="Footer-navLink" href="/compliments/clientes.html">Edenred
+								Compliments<sup>®</sup></a></li>
+						<p class="Footer-navTitle"><strong>Gastos Coorporativos</strong></p>
+						<ul class="Footer-navList">
+							<!-- <li><a class="Footer-navLink" href="/empresarial.html">Edenred Empresarial<sup>®</sup></a></li> -->
+							<li><a class="Footer-navLink" href="/combustible/clientes.html">Edenred
+									Combustible<sup>®</sup></a></li>
+						</ul>
+				</div>
+				<div class="Footer-navColumn">
+					<p class="Footer-navTitle"><strong>Nosotros</strong></p>
+					<ul class="Footer-navList">
+						<li><a class="Footer-navLink" href="/nosotros.html">Quiénes Somos</a></li>
+						<li><a class="Footer-navLink" href="/nosotros.html#mision">Misión · Visión · Valores</a></li>
+						<li><a class="Footer-navLink" href="/nosotros/trabaja-con-nosotros.html">Trabajá con
+								Nosotros</a></li>
+						<li><a class="Footer-navLink" href="/nosotros/politicas-de-privacidad.html">Políticas de
+								Privacidad</a></li>
+						<li><a class="Footer-navLink" href="/nosotros/proposito.html">Propósito</a></li>
+					</ul>
+				</div>
+				<div class="Footer-navColumn">
+					<p class="Footer-navTitle"><strong>Luncheon Tickets S.A.</strong></p>
+					<ul class="Footer-navList">
+						<li><a class="Footer-navLink" href="tel:59824088080">Tel: 2408 8080</a></li>
+						<li><a class="Footer-navLink">Horario: L A V De 8:30 A 17:20</a></li>
+						<li><a class="Footer-navLink">Victor Soliño 349 | Edificio Sinergia Faro</a></li>
+						<li><a class="Footer-navLink">Montevideo, Uruguay</a></li>
+						<li><a class="Footer-navLink">C.P. 11300</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- Footer / Social media -->
+			<div class="Footer-social">
+				<ul class="Footer-socialList">
+					<li class="Footer-socialItem">
+						<a target="_blank" href="https://www.facebook.com/EdenredUruguay/" class="Footer-socialLink">
+							<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="43px" height="43px"
+								viewBox="0 0 43 43" enable-background="new 0 0 43 43" xml:space="preserve">
+								<g>
+									<path fill="#1FC0EE"
+										d="M21.5,0.001C9.627,0.001,0.001,9.627,0.001,21.5c0,11.875,9.626,21.499,21.499,21.499 c11.874,0,21.499-9.624,21.499-21.499C42.999,9.627,33.374,0.001,21.5,0.001z" />
+									<path fill="#FFFFFF"
+										d="M26.105,21.508h-3.014c0,4.812,0,10.742,0,10.742h-4.464c0,0,0-5.868,0-10.742h-2.123v-3.795h2.123v-2.456 c0-1.758,0.835-4.506,4.505-4.506l3.307,0.013v3.685c0,0-2.01,0-2.399,0s-0.947,0.194-0.947,1.034v2.23h3.404L26.105,21.508z" />
+								</g>
+							</svg>
+						</a>
+					</li>
+					<!-- <li class="Footer-socialItem">
+						<a target="_blank" href="https://twitter.com/edenred_uy?lang=es" class="Footer-socialLink">
+							<svg width="43" height="43" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							 x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+								<circle class="Footer-socialSvg" cx="20" cy="20" r="20" />
+								<path class="Footer-socialSvgIcon" d="M29.6,14c-0.7,0.3-1.5,0.5-2.3,0.6c0.8-0.5,1.4-1.3,1.7-2.2c-0.8,0.5-1.6,0.8-2.5,1c-0.7-0.8-1.8-1.3-2.9-1.3
+									c-2.2,0-4,1.8-4,4c0,0.3,0,0.6,0.1,0.9c-3.3-0.2-6.2-1.7-8.2-4.1c-0.3,0.6-0.5,1.3-0.5,2c0,1.4,0.7,2.6,1.8,3.3
+									c-0.6,0-1.3-0.2-1.8-0.5v0c0,1.9,1.4,3.5,3.2,3.9c-0.3,0.1-0.7,0.1-1,0.1c-0.3,0-0.5,0-0.7-0.1c0.5,1.6,2,2.7,3.7,2.7
+									c-1.4,1.1-3.1,1.7-4.9,1.7c-0.3,0-0.6,0-0.9-0.1c1.8,1.1,3.8,1.8,6.1,1.8c7.3,0,11.3-6,11.3-11.3c0-0.2,0-0.3,0-0.5
+									C28.4,15.5,29.1,14.8,29.6,14z" />
+							</svg>
+						</a>
+					</li>					 -->
+					<li class="Footer-socialItem">
+						<a target="_blank" href="https://www.linkedin.com/company/edenred-uy/" class="Footer-socialLink">
+							<svg width="43" height="43" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40"
+								style="enable-background:new 0 0 40 40;" xml:space="preserve">
+								<circle class="Footer-socialSvg" cx="20" cy="20" r="20" />
+								<polygon id="XMLID_3_" class="Footer-socialSvgIcon"
+									points="11.2,20.2 11.2,28.8 15.3,28.8 15.3,19.5 15.3,17.1 11.2,17.1 	" />
+								<circle id="XMLID_2_" class="Footer-socialSvgIcon" cx="13.2" cy="13.2" r="2.1" />
+								<path id="XMLID_1_" class="Footer-socialSvgIcon" d="M28.7,20.7c-0.3-2.2-1.3-3.6-4.3-3.6c-1.8,0-3,0.7-3.5,1.6h-0.1v-1.6h-3.3v2.3v9.5h3.4V23
+										c0-1.5,0.3-3,2.2-3c1.9,0,2,1.8,2,3.1v5.7h3.5v-6.5h0C28.8,21.8,28.8,21.2,28.7,20.7z" />
+							</svg>
+						</a>
+					</li>
+					<li class="Footer-socialItem">
+						<a target="_blank" href="https://www.youtube.com/channel/UCeiGz14IcJgbqeAiOanFOow"
+							class="Footer-socialLink">
+							<svg width="43" height="43" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+								xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40"
+								style="enable-background:new 0 0 40 40;" xml:space="preserve">
+								<circle class="Footer-socialSvg" class="st0" cx="20" cy="20" r="20" />
+								<path class="Footer-socialSvgIcon" d="M17.9,8.1h-1.3l-0.9,3.5l-0.9-3.5h-1.4c0.3,0.8,0.6,1.6,0.9,2.5c0.4,1.2,0.7,2.2,0.8,2.8V17h1.3v-3.6L17.9,8.1z
+									 M21.5,14.9v-2.3c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.5-0.8-0.7-1.4-0.7c-0.6,0-1.1,0.2-1.4,0.7c-0.3,0.3-0.4,0.8-0.4,1.6v2.3
+									c0,0.7,0.1,1.2,0.4,1.6c0.3,0.4,0.8,0.7,1.4,0.7c0.6,0,1.1-0.2,1.4-0.7C21.4,16.1,21.5,15.6,21.5,14.9z M20.3,15.1
+									c0,0.6-0.2,0.9-0.6,0.9c-0.4,0-0.6-0.3-0.6-0.9v-2.8c0-0.6,0.2-0.9,0.6-0.9c0.4,0,0.6,0.3,0.6,0.9V15.1z M25.9,17v-6.6h-1.2v5
+									C24.5,15.8,24.2,16,24,16c-0.2,0-0.3-0.1-0.3-0.3c0,0,0-0.2,0-0.5v-4.9h-1.2v5.2c0,0.5,0,0.8,0.1,1c0.1,0.3,0.4,0.5,0.8,0.5
+									c0.4,0,0.9-0.3,1.4-0.8V17H25.9z" />
+								<path class="Footer-socialSvgIcon" d="M22.2,23.7c-0.2,0-0.4,0.1-0.6,0.3v4c0.2,0.2,0.4,0.3,0.6,0.3c0.3,0,0.5-0.3,0.5-0.9v-2.8
+										C22.7,24,22.5,23.7,22.2,23.7z" />
+								<path class="Footer-socialSvgIcon"
+									d="M26.6,23.7c-0.4,0-0.6,0.3-0.6,0.9v0.6h1.2v-0.6C27.2,24,27,23.7,26.6,23.7z" />
+								<path class="Footer-socialSvgIcon" d="M29.5,20.4c-0.2-1-1.1-1.8-2.1-1.9c-2.4-0.3-4.9-0.3-7.3-0.3c-2.4,0-4.9,0-7.3,0.3c-1,0.1-1.9,0.9-2.1,1.9
+										c-0.3,1.5-0.3,3.1-0.3,4.6c0,1.5,0,3.1,0.3,4.6c0.2,1,1.1,1.8,2.1,1.9c2.4,0.3,4.9,0.3,7.3,0.3c2.4,0,4.9,0,7.3-0.3
+										c1-0.1,1.9-0.9,2.1-1.9c0.3-1.5,0.3-3.1,0.3-4.6C29.8,23.5,29.8,21.9,29.5,20.4z M15.8,21.7h-1.4v7.5h-1.3v-7.5h-1.4v-1.2h4.1V21.7
+										z M19.4,29.3h-1.2v-0.7c-0.5,0.5-0.9,0.8-1.4,0.8c-0.4,0-0.6-0.2-0.8-0.5c-0.1-0.2-0.1-0.5-0.1-1v-5.2h1.2v4.8c0,0.3,0,0.4,0,0.5
+										c0,0.2,0.1,0.3,0.3,0.3c0.2,0,0.5-0.2,0.7-0.6v-5h1.2V29.3z M23.9,27.3c0,0.6,0,1-0.1,1.3c-0.2,0.5-0.5,0.7-0.9,0.7
+										c-0.4,0-0.8-0.2-1.2-0.7v0.6h-1.2v-8.8h1.2v2.9c0.4-0.5,0.8-0.7,1.2-0.7c0.5,0,0.8,0.2,0.9,0.7c0.1,0.3,0.1,0.7,0.1,1.3V27.3z
+										 M28.3,26.2H26v1.2c0,0.6,0.2,0.9,0.6,0.9c0.3,0,0.5-0.2,0.5-0.5c0-0.1,0-0.3,0-0.8h1.2v0.2c0,0.4,0,0.6,0,0.8
+										c0,0.3-0.1,0.5-0.3,0.7c-0.3,0.5-0.8,0.7-1.4,0.7c-0.6,0-1.1-0.2-1.4-0.7c-0.3-0.3-0.4-0.8-0.4-1.5v-2.3c0-0.7,0.1-1.2,0.4-1.5
+										c0.3-0.4,0.8-0.7,1.4-0.7c0.6,0,1.1,0.2,1.4,0.7c0.2,0.3,0.4,0.8,0.4,1.5V26.2z" />
+							</svg>
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<!-- Footer / Copyright -->
+			<p class="Footer-copyright">Copyright © Edenred Uruguay</p>
+
+			<!-- Footer / Go Top -->
+			<div class="Footer-goTop">
+				<div class="Footer-goTopIcon">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="20px">
+						<path fill-rule="evenodd" stroke="rgb(22, 32, 86)" stroke-width="4px" stroke-linecap="butt"
+							stroke-linejoin="miter" fill="none" d="M2.853,13.147 L13.306,2.547 L23.759,13.147 " />
+					</svg>
+				</div>
+				<span>Top</span>
+			</div>
+		</footer>
+	</div>
+
+	<!-- inject:js -->
+	<!-- endinject -->
+
+	<script src="/js/main.js"></script>
+
+	
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+</body>
+
+</html>

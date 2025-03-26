@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Starbucks</title>
+  <link rel="icon" href='/images/starbucks-logo.png'>
+  <link rel="stylesheet" href="/dist/css/app.c8848c.css">
+</head>
+<body>
+  <div id="app"></div>
+
+
+
+
+  
+  <script>
+    window.config = {"appName":"Starbucks","locale":"el","locales":{"en":"EN","el":"EL"},"storage":null,"githubAuth":null};
+  </script>
+
+  
+  <script src="/dist/js/app.0e94d5.js"></script>
+</body>
+</html>
